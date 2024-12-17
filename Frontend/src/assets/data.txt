@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "name": "Apple",
+        "variety": "Fuji",
+        "origin": "USA",
+        "price": 1.5,
+        "availability": "In Stock",
+        "image": "https://example.com/images/apple.jpg",
+        "description": "Fresh organic Fuji apples, known for their crisp texture and sweet flavor."
+    },
+    {
+        "id": "2",
+        "name": "Banana",
+        "variety": "Cavendish",
+        "origin": "Ecuador",
+        "price": 0.5,
+        "availability": "In Stock",
+        "image": "https://example.com/images/banana.jpg",
+        "description": "Organic Cavendish bananas, perfect for snacking or smoothies."
+    },
+    {
+        "id": "3",
+        "name": "Orange",
+        "variety": "Navel",
+        "origin": "Spain",
+        "price": 0.8,
+        "availability": "Limited Stock",
+        "image": "https://example.com/images/orange.jpg",
+        "description": "Juicy organic Navel oranges, great for juicing or eating fresh."
+    },
+    {
+        "id": "4",
+        "name": "Strawberry",
+        "variety": "Albion",
+        "origin": "California, USA",
+        "price": 3.0,
+        "availability": "In Stock",
+        "image": "https://example.com/images/strawberry.jpg",
+        "description": "Sweet and juicy organic Albion strawberries, perfect for desserts."
+    },
+    {
+        "id": "5",
+        "name": "Grapes",
+        "variety": "Thompson Seedless",
+        "origin": "Chile",
+        "price": 2.5,
+        "availability": "In Stock",
+        "image": "https://example.com/images/grapes.jpg",
+        "description": "Organic Thompson Seedless grapes, ideal for snacking or salads."
+    }
+]
